@@ -1,0 +1,5 @@
+Esse e um app feito com App gratuita do AwersomeAPI, para fazer cotacao de moeda convertendo dolar para real, e real para dolar.
+
+
+1) Composer.json serve para ver o que fui integrado no projeto.
+2) Execute composer install para instalar as bibliotecas nescessaria
